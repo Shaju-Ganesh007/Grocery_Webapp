@@ -79,3 +79,7 @@ filters
   font-weight: bold;
   font-size: 20px !important;
 }
+
+img{
+  background-size: cover;
+}
